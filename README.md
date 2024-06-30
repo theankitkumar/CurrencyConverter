@@ -13,3 +13,23 @@ This web application allows users to convert currencies based on real-time excha
 1. Clone the repository:
    ```bash
    git clone https://github.com/theankitkumar/CurrencyConverter
+
+   
+Navigate to the project directory:
+
+
+cd currency-converter
+Open index.html in your browser.
+Usage
+Select currencies from the "From" and "To" dropdown menus.
+Enter an amount in the input field.
+Click on "Get Exchange Rate" button to see the converted amount.
+API Reference
+This project uses the Frankfurter API to fetch exchange rates.
+
+Contributing
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
+
+Credits
+Icons provided by Font Awesome.
+Flag images provided by Flags API.
